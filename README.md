@@ -62,10 +62,10 @@ Developed a responsive weather application that displays real-time forecast data
 
 ## **🌍 Languages**
 
-**Ukrainian: Native 🇺🇦 **<br>
-**Russian: Fluent **<br>
-**Norwegian: A2-B1 **<br>
-**English: Elementary **<br>  
+Ukrainian: Native 🇺🇦 <br>
+Russian: Fluent <br>
+Norwegian: A2-B1 <br>
+English: Elementary <br>  
 
 ---
 
