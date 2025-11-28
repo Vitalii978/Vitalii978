@@ -40,11 +40,11 @@ I enjoy improving solutions and working in a team where knowledge can be shared 
 ### **🛒 [Clothica Shop](https://github.com/d-yv/clothica-front) - Next.js • Node.js • REST API**
 Development of a website for selling fashionable clothing. In a team project, was responsible for creating the authentication system, Style component, and order processing. Implemented form validation and adaptive interface, ensuring proper display on all types of devices. Role: Frontend Developer..  
 
-### **📚 [Booksy](https://github.com/d-yv/project-dev1team) - HTML • CSS • JS**
+### **📚 [Booksy](https://github.com/Vitalii978/booksy) - HTML • CSS • JS**
 A modern website for purchasing books featuring a responsive design that ensures proper display across all devices. In the team project, I was responsible for developing the HIRO section. Role: Frontend Developer.
 
 
-### **⛵ [Website for selling luxury yachts](https://github.com/samir-shaban-en/dev-team-web) - HTML • CSS**
+### **⛵ [Website for selling luxury yachts](https://github.com/Vitalii978/yachts) - HTML • CSS**
 A website designed for the purchase and sale of luxury yachts.This was a team project in which I was responsible for developing the Header section. I implemented responsive navigation behavior and a fully functional mobile menu, ensuring proper display across all device types. Role: Developer 
 
 
