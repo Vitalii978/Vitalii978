@@ -61,7 +61,7 @@ Stack: MERN Stac
 ### **🌦 [Weather App](https://github.com/Vitalii978/weather-react) - HTML • CSS • JS**
 Developed a responsive weather application that displays real-time forecast data for any city. Implemented location search, dynamic API requests, temperature and condition visualization, and clean UI with fast client-side rendering.
 
-### ** [WebStudio](https://github.com/Vitalii978/goit-markup-hw-06) - HTML • CSS **
+### [WebStudio](https://github.com/Vitalii978/goit-markup-hw-06) - HTML • CSS 
 A modern, responsive landing page for a web development studio that demonstrates how digital products can solve specific business challenges.
 
 
