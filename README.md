@@ -40,7 +40,7 @@ I enjoy improving solutions and working in a team where knowledge can be shared 
 ###  [campervan_hire](https://github.com/Vitalii978/campervan_hire) - Next.js • Node.js • REST API**
 This website is developed for the TravelTrucks camper rental service. The application enables users to search, filter, and book motorhomes with detailed information about each vehicle. Role: Frontend Developer.
 
-### **🛒 [Clothica Shop](https://github.com/d-yv/clothica-front) - Next.js • Node.js • REST API**
+### **🛒 [Clothica Shop](https://clothica-front.vercel.app) - Next.js • Node.js • REST API**
 Development of a website for selling fashionable clothing. In a team project, was responsible for creating the authentication system, Style component, and order processing. Implemented form validation and adaptive interface, ensuring proper display on all types of devices. Role: Frontend Developer..  
 
 ### **📚 [Booksy](https://github.com/Vitalii978/booksy) - HTML • CSS • JS**
