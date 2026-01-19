@@ -36,7 +36,7 @@ I enjoy improving solutions and working in a team where knowledge can be shared 
 ## 🚀 Projects 
 
  👥 **Team Projects (Team Lead)**
- ### **🛒 [Psychologists.Services](https://psychologists-service-eight.vercel.app) - • JS • React 18 • Firebase 10 • Yup  • React Router 6 • CSS**
+ ### ** [Psychologists.Services](https://psychologists-service-eight.vercel.app) - • JS • React 18 • Firebase 10 • Yup  • React Router 6 • CSS**
 Psychologists.Services is a platform that connects people with professional psychologists. Users can browse psychologists, filter them by various criteria, save favorites, and book appointments. Role: Frontend Developer..
 
 ###  [campervan_hire](https://github.com/Vitalii978/campervan_hire) - Next.js • Node.js • REST API**
