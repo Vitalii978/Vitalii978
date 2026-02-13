@@ -79,7 +79,7 @@ English: Elementary <br>
 ---
 
 ## 📫  Let's Connect!  
-**[Email](Vitalii.Klymenko78@gmail.com)**<br>
+**Email: Vitalii.Klymenko78@gmail.com**<br>
 **[Telegram:](https://t.me/Vitalii_klm78)**  
 **[LinkedIn](https://www.linkedin.com/in/vitalii-klymenko/)** 
 
