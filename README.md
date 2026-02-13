@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vitalii Klymenko 👋</h1>
   
 
-I am a Junior Fullstack Developer who builds modern, fast, and reliable web applications. I work with both the client side (interfaces, components, user interactions) and the server side (authentication, APIs, data processing).
+I am a Fullstack Developer who builds modern, fast, and reliable web applications. I work with both the client side (interfaces, components, user interactions) and the server side (authentication, APIs, data processing).
 I enjoy improving solutions and working in a team where knowledge can be shared and everyone can grow together.
 
 ---
