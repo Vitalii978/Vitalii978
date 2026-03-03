@@ -36,12 +36,6 @@ I enjoy improving solutions and working in a team where knowledge can be shared 
 ## 🚀 Projects 
 
  👥 **Team Projects (Team Lead)**
- ###  [Psychologists.Services](https://psychologists-service-eight.vercel.app) - • JS • React 18 • Firebase 10 • Yup  • React Router 6 • CSS
-Psychologists.Services is a platform that connects people with professional psychologists. Users can browse psychologists, filter them by various criteria, save favorites, and book appointments. Role: Frontend Developer..
-
-###  [campervan_hire](https://campervan-hire.vercel.app) - Next.js • Node.js • REST API
-This website is developed for the TravelTrucks camper rental service. The application enables users to search, filter, and book motorhomes with detailed information about each vehicle. Role: Frontend Developer.
-
 ### **🛒 [Clothica Shop](https://clothica-front.vercel.app) - Next.js • Node.js • REST API**
 Development of a website for selling fashionable clothing. In a team project, was responsible for creating the authentication system, Style component, and order processing. Implemented form validation and adaptive interface, ensuring proper display on all types of devices. Role: Frontend Developer..  
 
@@ -52,8 +46,16 @@ A modern website for purchasing books featuring a responsive design that ensures
 ### **⛵ [Website for selling luxury yachts](https://github.com/Vitalii978/yachts) - HTML • CSS**
 A website designed for the purchase and sale of luxury yachts.This was a team project in which I was responsible for developing the Header section. I implemented responsive navigation behavior and a fully functional mobile menu, ensuring proper display across all device types. Role: Developer 
 
-
 💻 **Personal Projects**
+ ###  [Find a friend among animals](https://tailfriend.vercel.app) - • JS • React 18 • • Yup  • React Router 6 • CSS • HTML
+ This is a web app that helps people find pets or help animals find new homes. Users can browse listings, filter them by various criteria, add them to favorites,
+ and view their history.
+
+ ###  [Psychologists.Services](https://psychologists-service-eight.vercel.app) - • JS • React 18 • Firebase 10 • Yup  • React Router 6 • CSS
+Psychologists.Services is a platform that connects people with professional psychologists. Users can browse psychologists, filter them by various criteria, save favorites, and book appointments. Role: Frontend Developer..
+
+###  [campervan_hire](https://campervan-hire.vercel.app) - Next.js • Node.js • REST API
+This website is developed for the TravelTrucks camper rental service. The application enables users to search, filter, and book motorhomes with detailed information about each vehicle. Role: Frontend Developer.
 
 ### 🎓 **[NoteHub](https://github.com/Vitalii978/09-auth) - Next.js • REST API**
 Application for managing notes: creating, deleting and also with ability to authentication and edit your profile.
