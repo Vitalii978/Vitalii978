@@ -47,6 +47,13 @@ A modern website for purchasing books featuring a responsive design that ensures
 A website designed for the purchase and sale of luxury yachts.This was a team project in which I was responsible for developing the Header section. I implemented responsive navigation behavior and a fully functional mobile menu, ensuring proper display across all device types. Role: Developer 
 
 💻 **Personal Projects**
+ ###  [Medicine Store-Admin](https://e-pharmacy-frontend-seven.vercel.app) - • JS • React 18 • Vite • Yup  • React Router 6 • CSS • HTML
+Medicine Store Admin is an administrative dashboard for managing a medical store. The application allows the administrator to manage orders, products, suppliers, and customers.
+
+ ###  [Medicine Store-Admin-backend ](https://github.com/Vitalii978/e-pharmacy-backend) - • JS • Node.js • Express • MongoDB  • JWT authentication
+Backend for Medicine Store-Admin. Built with Node.js, Express, MongoDB, and JWT authentication.
+
+
  ###  [Find a friend among animals](https://tailfriend.vercel.app) - • JS • React 18 • • Yup  • React Router 6 • CSS • HTML
  This is a web app that helps people find pets or help animals find new homes. Users can browse listings, filter them by various criteria, add them to favorites,
  and view their history.
